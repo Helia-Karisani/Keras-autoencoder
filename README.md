@@ -97,8 +97,6 @@ In above output:
 - top row: original input images
 - bottom row: reconstructed images produced by the autoencoder
 
-So the model is not displaying two different evaluation outputs. It is showing a comparison:
-original vs reconstruction.
 
 The second row can look “better” because the autoencoder often learns to keep the main digit shape and drop small noise, blur, or stray pixels, so the reconstruction can look cleaner than the raw input.
 
