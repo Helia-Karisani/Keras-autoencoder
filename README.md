@@ -202,7 +202,6 @@ From TensorFlow / Keras, it specifically uses:
 
 ## Figures
 
-To make the figures render correctly on GitHub, keep the image files in the repository root and reference them like this.
 
 ### Reconstruction Output
 
@@ -221,4 +220,3 @@ This figure shows the later-stage output of the project, where the model is trai
 ## Summary
 
 This project demonstrates how to build a Keras autoencoder for MNIST using dense layers. It starts with data preprocessing, builds a compact encoder-decoder architecture, trains the model to reconstruct handwritten digits, visualizes original versus reconstructed outputs, then extends the same model through fine-tuning and denoising. The project is a clear end-to-end example of representation learning, image reconstruction, and denoising with TensorFlow and Keras.
-```
