@@ -193,10 +193,10 @@ From TensorFlow / Keras, it specifically uses:
 
 ## Files in the Repository
 
-- `Keras-autoencoder.ipynb` — main notebook containing preprocessing, model building, training, fine-tuning, and denoising
-- `README.md` — project documentation
-- `model-output.png` — figure showing original images and reconstructed outputs
-- `fine-tune-output.png` — figure related to the later-stage results / fine-tuned or denoising output visualization
+- `Keras-autoencoder.ipynb`, main notebook containing preprocessing, model building, training, fine-tuning, and denoising
+- `README.md`, project documentation
+- `model-output.png`, figure showing original images and reconstructed outputs
+- `fine-tune-output.png`, figure related to the later-stage results / fine-tuned or denoising output visualization
 
 ## Figures
 
